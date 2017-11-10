@@ -1,0 +1,112 @@
+Map_thumbnail_small Pteropus pumilus (Little Golden-mantled Flying Fox) 
+Status: Near Threatened ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus rayneri (Solomons Flying Fox) 
+Status: Near Threatened ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus rennelli (Rennell Flying Fox) 
+Status: Endangered B1ab(ii,iii) ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus rodricensis (Rodrigues Flying Fox) 
+Status: Endangered B1ac(iv)+2ac(iv) ver 3.1 
+Pop. trend: increasing
+Map_thumbnail_small Pteropus rufus (Madagascan Flying Fox) 
+Status: Vulnerable A2acd ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus samoensis (Samoan Flying Fox) 
+Status: Near Threatened ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus scapulatus (Little Red Flying Fox) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Pteropus seychellensis (Seychelles Flying Fox) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Pteropus speciosus (Philippine Gray Flying Fox) 
+Status: Data Deficient ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Pteropus subniger (Lesser Mascarene Flying-fox) 
+Status: Extinct ver 3.1 
+Map_thumbnail_small Pteropus temminckii (Temminck's Flying Fox) 
+Status: Vulnerable A2c ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus tokudae (Guam Flying Fox) 
+Status: Extinct ver 3.1 
+Map_thumbnail_small Pteropus tonganus (Pacific Flying Fox) 
+Status: Least Concern ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus tuberculatus (Vanikoro Flying Fox) 
+Status: Critically Endangered D ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Pteropus ualanus (Kosrae Flying Fox) 
+Status: Vulnerable D2 ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Pteropus vampyrus (Large Flying-fox) 
+Status: Near Threatened ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus vetulus (New Caledonia Flying Fox) 
+Status: Vulnerable B1ab(i,ii,iii) ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus voeltzkowi (Pemba Flying Fox) 
+Status: Vulnerable D2 ver 3.1 
+Pop. trend: increasing
+Map_thumbnail_small Pteropus woodfordi (Dwarf Flying Fox) 
+Status: Least Concern ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Rousettus aegyptiacus (Egyptian Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Rousettus amplexicaudatus (Geoffroy's Rousette) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Rousettus bidens (Manado Rousette) 
+Status: Vulnerable A3cd ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Rousettus celebensis (Sulawesi Rousette) 
+Status: Least Concern ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Rousettus lanosus (Long-haired Rousette) 
+Status: Least Concern ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Rousettus leschenaultii (Leschenault’s Rousette) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Rousettus linduensis (Linduan Rousette) 
+Status: Data Deficient ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Rousettus madagascariensis (Madagascan Rousette) 
+Status: Near Threatened ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Rousettus obliviosus (Comoros Rousette) 
+Status: Vulnerable B1ab(iii)+2ab(iii) ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Rousettus spinalatus (Bare-backed Rousette) 
+Status: Vulnerable A2c+3c ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Scotonycteris ophiodon (Pohle's Fruit Bat) 
+Status: Near Threatened ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Scotonycteris zenkeri (Zenker's Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Sphaerias blanfordi (Blandford's Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Styloctenium mindorensis (Mindoro Stripe-faced Fruit Bat) 
+Status: Data Deficient ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Styloctenium wallacei (Wallace's Stripe-faced Fruit Bat) 
+Status: Near Threatened ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Syconycteris australis (Common Blossom Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Syconycteris carolinae (Halmaheran Blossom Bat) 
+Status: Vulnerable B1ab(iii) ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Syconycteris hobbit (Moss-forest Blossom Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Thoopterus nigrescens (Swift Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown

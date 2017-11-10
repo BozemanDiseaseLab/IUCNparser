@@ -1,0 +1,150 @@
+Map_thumbnail_small Epomops dobsonii (Dobson's Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Epomops franqueti (Franquet's Epauletted Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Haplonycteris fischeri (Philippine Pygmy Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Harpyionycteris celebensis (Sulawesi Harpy Fruit Bat) 
+Status: Vulnerable A2d ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Harpyionycteris whiteheadi (Harpy Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Hypsignathus monstrosus (Hammer-headed Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Latidens salimalii (Salim Ali's Fruit Bat) 
+Status: Endangered B1ab(iii)+2ab(iii) ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Lissonycteris angolensis (Angolan Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Macroglossus minimus (Dagger-toothed Long-nosed Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Macroglossus sobrinus (Hill Long-tongued Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Megaerops ecaudatus (Temminck’s Tailless Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Megaerops kusnotoi (Javan Tailless Fruit Bat) 
+Status: Vulnerable A3c ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Megaerops niphanae (Ratanaworabhan's Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Megaerops wetmorei (White-collared Fruit Bat) 
+Status: Vulnerable A4c ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Megaloglossus azagnyi (Western Woermann’s Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Megaloglossus woermanni (Woermann's Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Melonycteris fardoulisi (Fardoulis's Blossom Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Melonycteris melanops (Black-bellied Blossom Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Melonycteris woodfordi (Woodford's Blossom Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Micropteropus intermedius (Hayman's Lesser Epauletted Fruit Bat) 
+Status: Data Deficient ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Micropteropus pusillus (Peter's Dwarf Epauletted Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Mirimiri acrodonta (Fijian Monkey-faced Bat) 
+Status: Critically Endangered B1ab(iii) ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Myonycteris brachycephala (Sao Tomé Collared Fruit Bat) 
+Status: Endangered B1ab(iii) ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Myonycteris leptodon (Sierra Leone Collared Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Myonycteris relicta (East African Little Collared Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Myonycteris torquata (Little Collared Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Nanonycteris veldkampii (Veldkamp's Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Neopteryx frosti (Small-toothed Fruit Bat) 
+Status: Endangered C1 ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Notopteris macdonaldi (Fijian Blossom Bat) 
+Status: Vulnerable B1ab(iii,v) ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Notopteris neocaledonica (New Caledonia Blossom Bat) 
+Status: Vulnerable B1ab(i,ii,iii) ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Nyctimene aello (Greater Tube-nosed Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Nyctimene albiventer (Common Tube-nosed Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Nyctimene cephalotes (Pallas's Tube-nosed Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Nyctimene certans (Mountain Tube-nosed Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Nyctimene cyclotis (Round-eared Tube-nosed Bat) 
+Status: Data Deficient ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Nyctimene draconilla (Lesser Tube-nosed Bat) 
+Status: Data Deficient ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Nyctimene keasti (Keast's Tube-nosed Fruit Bat) 
+Status: Vulnerable B1ab(ii,iii) ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Nyctimene major (Island Tube-nosed Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Nyctimene malaitensis (Malaita Tube-nosed Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Nyctimene masalai (Demonic Tube-nosed Bat) 
+Status: Data Deficient ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Nyctimene minutus (Lesser Tube-nosed Fruit Bat) 
+Status: Vulnerable B2ab(ii,iii) ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Nyctimene rabori (Philippine Tube-nosed Fruit Bat) 
+Status: Endangered C2a(i) ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Nyctimene robinsoni (Eastern Tube-nosed Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Nyctimene sanctacrucis (Nendö Tube-nosed Bat) 
+Status: Data Deficient ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Nyctimene vizcaccia (Umboi Tube-nosed Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Otopteropus cartilagonodus (Luzon Pygmy Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Paranyctimene raptor (Unstriped Tube-nosed Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Paranyctimene tenax (Steadfast Tube-nosed Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Penthetor lucasi (Lucas's Short-nosed Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Plerotes anchietae (D'Anchieta's Fruit Bat) 
+Status: Data Deficient ver 3.1 
+Pop. trend: unknown

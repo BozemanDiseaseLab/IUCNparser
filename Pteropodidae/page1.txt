@@ -1,0 +1,150 @@
+Map_thumbnail_small Acerodon celebensis (Sulawesi Fruit Bat) 
+Status: Vulnerable A2d ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Acerodon humilis (Talaud Fruit Bat) 
+Status: Endangered B1ab(iii,v) ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Acerodon jubatus (Golden-capped Fruit Bat) 
+Status: Endangered A2cd ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Acerodon leucotis (Palawan Fruit Bat) 
+Status: Vulnerable A4cd ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Acerodon mackloti (Sunda Fruit Bat) 
+Status: Vulnerable A3cd ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Aethalops aequalis (Borneo Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Aethalops alecto (Pygmy Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Alionycteris paucidentata (Mindanao Pygmy Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Aproteles bulmerae (Bulmer's Fruit Bat) 
+Status: Critically Endangered B2ab(iv,v)c(ii); C2a(ii) ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Balionycteris maculata (Spotted-winged Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Casinycteris argynnis (Short-palated Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Casinycteris campomaanensis (Campo-Ma’an fruit bat ) 
+Status: Data Deficient ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Chironax melanocephalus (Black-capped Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Cynopterus brachyotis (Lesser Dog-faced Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Cynopterus horsfieldii (Horsfield’s Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Cynopterus luzoniensis (Peters’s Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Cynopterus minutus (Minute Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Cynopterus nusatenggara (Nusatenggara Short-nosed Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Cynopterus sphinx (Greater Shortnosed Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: increasing
+Map_thumbnail_small Cynopterus titthaecheilus (Indonesian Short-nosed Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Dobsonia anderseni (Andersen's Bare-backed Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Dobsonia beauforti (Beaufort's Bare-backed Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Dobsonia chapmani (Philippine Bare-backed Fruit Bat) 
+Status: Critically Endangered A2cd ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Dobsonia crenulata (Halmahera Naked-backed Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Dobsonia emersa (Biak Bare-backed Fruit Bat) 
+Status: Vulnerable D2 ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Dobsonia exoleta (Sulawesi Naked-backed Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Dobsonia inermis (Solomons Bare-backed Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Dobsonia minor (Lesser Bare-backed Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Dobsonia moluccensis (Moluccan Naked-backed Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Dobsonia pannietensis (Panaeati Bare-backed Fruit Bat) 
+Status: Near Threatened ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Dobsonia peronii (Western Naked-backed Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Dobsonia praedatrix (Bismarck Bare-backed Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Dobsonia viridis (Greenish Naked-backed Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Dyacopterus brooksi (Brooks’s Dyak Fruit Bat) 
+Status: Vulnerable A4c ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Dyacopterus spadiceus (Dayak Fruit Bat) 
+Status: Near Threatened ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Eidolon dupreanum (Madagascan Fruit Bat) 
+Status: Vulnerable A2ad ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Eidolon helvum (African Straw-coloured Fruit-bat) 
+Status: Near Threatened ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Eonycteris major (Greater Dawn Bat) 
+Status: Data Deficient ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Eonycteris robusta (Philippine Dawn Bat) 
+Status: Near Threatened ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Eonycteris spelaea (Dawn Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Epomophorus angolensis (Angolan Epauletted Fruit Bat) 
+Status: Near Threatened ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Epomophorus anselli 
+Status: Data Deficient ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Epomophorus crypturus (Peters's Epauletted Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Epomophorus gambianus (Gambian Epauletted Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Epomophorus grandis (Lesser Angolan Epauletted Fruit Bat) 
+Status: Data Deficient ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Epomophorus labiatus (Ethiopian Epauletted Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Epomophorus minimus (East African Epauletted Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Epomophorus minor (Minor Epauletted Fruit Bat ) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Epomophorus wahlbergi (Wahlberg's Epauletted Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Epomops buettikoferi (Buettikofer's Epauletted Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: decreasing

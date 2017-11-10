@@ -1,0 +1,148 @@
+Map_thumbnail_small Ptenochirus jagori (Greater Musky Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Ptenochirus minor (Lesser Musky Fruit Bat) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Pteralopex anceps (Bougainville Monkey-faced Bat) 
+Status: Endangered A2c ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteralopex atrata (Guadalcanal Monkey-faced Bat) 
+Status: Endangered A2cd ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteralopex flanneryi (Greater Monkey-faced Bat) 
+Status: Critically Endangered A2cd ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteralopex pulchra (Montane Monkey-faced Bat) 
+Status: Critically Endangered D ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteralopex taki (New Georgia Monkey-faced Bat) 
+Status: Vulnerable B1ab(ii,iii,v); D1 ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus admiralitatum (Admiralty Flying Fox) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Pteropus aldabrensis (Aldabra Flying-fox) 
+Status: Vulnerable D2 ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Pteropus alecto (Black Flying Fox) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Pteropus anetianus (Vanauatu Flying Fox) 
+Status: Vulnerable B1ab(iv,v) ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus aruensis (Aru Flying Fox) 
+Status: Critically Endangered D ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Pteropus brunneus (Percy Island Flying Fox) 
+Status: Extinct ver 3.1 
+Map_thumbnail_small Pteropus caniceps (North Moluccan Flying Fox) 
+Status: Vulnerable A3cd ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus capistratus (Bismarck Flying Fox) 
+Status: Near Threatened ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus chrysoproctus (Moluccan Flying Fox) 
+Status: Vulnerable A3cd ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus cognatus (Makira Flying Fox) 
+Status: Vulnerable B1ab(iii,v) ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus conspicillatus (Spectacled Flying Fox) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Pteropus dasymallus (Ryukyu Flying Fox) 
+Status: Vulnerable A4cd; B2ab(iii,iv,v); C1 ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus faunulus (Nicobar Flying Fox) 
+Status: Vulnerable B1ab(i,ii,iii,iv,v)+2ab(i,ii,iii,iv,v) ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus fundatus (Banks Flying Fox) 
+Status: Endangered B1ab(v) ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus giganteus (Indian Flying Fox) 
+Status: Least Concern ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus gilliardorum (Gilliard's Flying Fox) 
+Status: Data Deficient ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Pteropus griseus (Gray Flying Fox) 
+Status: Data Deficient ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Pteropus howensis (Ontong Java Flying Fox) 
+Status: Data Deficient ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Pteropus hypomelanus (Island Flying Fox) 
+Status: Least Concern ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus intermedius (Andersen's Flying Fox) 
+Status: Data Deficient ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Pteropus keyensis (Kei Flying Fox) 
+Status: Data Deficient ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Pteropus leucopterus (Mottle-winged Flying Fox) 
+Status: Least Concern ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus livingstonii (Livingstone's Flying Fox) 
+Status: Critically Endangered A2c ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus lombocensis (Lombok Flying Fox) 
+Status: Data Deficient ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Pteropus loochoensis (Okinawa Flying-fox) 
+Status: Data Deficient ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Pteropus lylei (Lyle's Flying Fox) 
+Status: Vulnerable A4cd ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus macrotis (Large-eared Flying Fox) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Pteropus mahaganus (Sanborn's Flying Fox) 
+Status: Least Concern ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus mariannus (Marianas Flying Fox) 
+Status: Endangered B1ab(iii,v) ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus melanopogon (Black-bearded Flying Fox) 
+Status: Endangered A3cd ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus melanotus (Blyth's Flying Fox) 
+Status: Vulnerable A2cde ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus molossinus (Pohnpei Flying Fox) 
+Status: Vulnerable D2 ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Pteropus neohibernicus (Great Flying Fox) 
+Status: Least Concern ver 3.1 
+Pop. trend: unknown
+Map_thumbnail_small Pteropus niger (Greater Mascarene Flying Fox) 
+Status: Vulnerable A3cd ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Pteropus nitendiensis (Temotu Flying Fox) 
+Status: Endangered B1ab(iii) ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus ocularis (Seram Flying Fox) 
+Status: Vulnerable A3c ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus ornatus (Ornate Flying Fox) 
+Status: Vulnerable A2cd; B1ab(ii,iii,iv,v) ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus pelewensis (Palau Flying Fox) 
+Status: Near Threatened ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Pteropus personatus (Moluccan Masked Flying Fox) 
+Status: Least Concern ver 3.1 
+Pop. trend: stable
+Map_thumbnail_small Pteropus pilosus (Large Palau Flying Fox) 
+Status: Extinct ver 3.1 
+Map_thumbnail_small Pteropus pohlei (Geelvink Bay Flying Fox) 
+Status: Vulnerable B1ab(i,v) ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus poliocephalus (Grey-headed Flying Fox) 
+Status: Vulnerable A2ace ver 3.1 
+Pop. trend: decreasing
+Map_thumbnail_small Pteropus pselaphon (Bonin Flying Fox) 
+Status: Endangered B2ab(ii,iii,iv); D ver 3.1 
+Pop. trend: stable
