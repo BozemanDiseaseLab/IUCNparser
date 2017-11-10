@@ -1,8 +1,8 @@
 # IUCN parser
 
-### Directory Structure:
+### Folder Structure:
 
 IUCNparser
-	asdf
+---- asdf
 
 1. 
