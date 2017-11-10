@@ -2,7 +2,7 @@
 
 ### Folder Structure:
 
-IUCNparser\s\s
+IUCNparser  
 ---- asdf
 
 1. 
